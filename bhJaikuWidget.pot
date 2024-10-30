@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-17 11:30+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bhJaikuWidget.php:83 bhJaikuWidget.php:95 bhJaikuWidget.php:115
+msgid "My Jaiku"
+msgstr ""
+
+#: bhJaikuWidget.php:124
+msgid "Title:"
+msgstr ""
+
+#: bhJaikuWidget.php:129
+msgid "Your Jaiku's screen name"
+msgstr ""
+
+#: bhJaikuWidget.php:134
+msgid "Number statuses (max 30)"
+msgstr ""
+
+#: bhJaikuWidget.php:168
+msgid "Jaiku Widgets"
+msgstr ""
+
+#: bhJaikuWidget.php:169
+msgid "How many Jaiku widgets would you like?"
+msgstr ""
+
+#: bhJaikuWidget.php:173
+msgid "Save"
+msgstr ""
+
+#: bhJaikuWidget.php:201 bhJaikuWidget.php:202
+#, possible-php-format
+msgid "Jaiku %d"
+msgstr ""

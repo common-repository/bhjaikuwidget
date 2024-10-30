@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bhJaikuWidget french translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-02-17 11:33+0100\n"
+"Last-Translator: burninghat <burninghat@hotmail.com>\n"
+"Language-Team: burningHat <webmaster@burninghat.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: SWITZERLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: bhJaikuWidget.php:83
+#: bhJaikuWidget.php:95
+#: bhJaikuWidget.php:115
+msgid "My Jaiku"
+msgstr "Mon Jaiku"
+
+#: bhJaikuWidget.php:124
+msgid "Title:"
+msgstr "Titre:"
+
+#: bhJaikuWidget.php:129
+msgid "Your Jaiku's screen name"
+msgstr "Votre identifiant Jaiku"
+
+#: bhJaikuWidget.php:134
+msgid "Number statuses (max 30)"
+msgstr "Nombre d'états (max 30)"
+
+#: bhJaikuWidget.php:168
+msgid "Jaiku Widgets"
+msgstr "Widgets Jaiku"
+
+#: bhJaikuWidget.php:169
+msgid "How many Jaiku widgets would you like?"
+msgstr "Combien de widgets Jaiku désirez-vous?"
+
+#: bhJaikuWidget.php:173
+msgid "Save"
+msgstr "Enregistrer"
+
+#: bhJaikuWidget.php:201
+#: bhJaikuWidget.php:202
+#, php-format
+msgid "Jaiku %d"
+msgstr "Jaiku %d"
+
